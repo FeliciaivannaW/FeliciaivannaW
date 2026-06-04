@@ -8,7 +8,7 @@
 
 ---
 
-## Hi, I'm Felicia Ivanna Widian!
+## Hi, I'm Felicia Ivanna Widian!✨
 
 I’m a 4th-semester Informatics Engineering student at Maranatha Christian University.
 
@@ -19,7 +19,7 @@ It is also about making something clear, useful, and worth improving.
 
 ---
 
-## About me in code
+## About me in code🙋‍♀️
 
 ```js
 const felicia = {
@@ -47,7 +47,7 @@ const felicia = {
 
 ---
 
-## Current Focus
+## Current Focus 🎯
 
 ```txt
 > designing better user flows
@@ -59,7 +59,7 @@ const felicia = {
 
 ---
 
-## TechStack
+## TechStack💻
 
 <div align="center">
 
@@ -69,7 +69,7 @@ const felicia = {
 
 ---
 
-## Tools and Workflow
+## Tools and Workflow🪐
 
 <div align="center">
 
@@ -84,7 +84,7 @@ const felicia = {
 
 ---
 
-## Selected Projects
+## Selected Projects🤎
 
 <table>
   <tr>
@@ -137,7 +137,7 @@ const felicia = {
 
 ---
 
-## Github Activity
+## Github Activity ☕
 
 <div align="center">
 
@@ -156,7 +156,7 @@ const felicia = {
 
 ---
 
-## little things i care about
+## little things i care about 🦋
 
 ```txt
 clean structure       > because messy logic is harder to grow
@@ -167,7 +167,7 @@ continuous learning   > because every project teaches something new
 
 ---
 
-## Connect with me!
+## Connect with me!🚀
 
 <div align="center">
 
