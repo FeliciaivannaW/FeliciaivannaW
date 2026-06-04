@@ -8,7 +8,7 @@
 
 ---
 
-## hi, i'm Felicia Ivanna Widian 
+## Hi, I'm Felicia Ivanna Widian!
 
 I’m a 4th-semester Informatics Engineering student at Maranatha Christian University.
 
@@ -19,7 +19,7 @@ It is also about making something clear, useful, and worth improving.
 
 ---
 
-## about me in code
+## About me in code
 
 ```js
 const felicia = {
@@ -30,7 +30,6 @@ const felicia = {
   interests: [
     "Web Development",
     "Artificial Intelligence",
-    "Cyber Security",
     "Cyber Security",
     "Database Systems",
     "Clean UI Flow"
@@ -48,7 +47,7 @@ const felicia = {
 
 ---
 
-## current focus
+## Current Focus
 
 ```txt
 > designing better user flows
@@ -60,7 +59,7 @@ const felicia = {
 
 ---
 
-## tech stack
+## TechStack
 
 <div align="center">
 
@@ -70,7 +69,7 @@ const felicia = {
 
 ---
 
-## tools and workflow
+## Tools and Workflow
 
 <div align="center">
 
@@ -85,7 +84,7 @@ const felicia = {
 
 ---
 
-## selected projects
+## Selected Projects
 
 <table>
   <tr>
@@ -138,17 +137,18 @@ const felicia = {
 
 ---
 
-## github activity
+## Github Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FeliciaivannaW&show_icons=true&hide_border=true&title_color=BFA2DB&icon_color=C8A27A&text_color=EADDD2&bg_color=151218" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FeliciaivannaW&theme=dracula" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeliciaivannaW&layout=compact&hide_border=true&title_color=BFA2DB&text_color=EADDD2&bg_color=151218" />
+<br/>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FeliciaivannaW&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FeliciaivannaW&theme=dracula" />
 
-<div align="center">
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=FeliciaivannaW&hide_border=true&background=151218&ring=BFA2DB&fire=C8A27A&currStreakLabel=EADDD2&sideLabels=EADDD2&currStreakNum=F8F1E9&sideNums=F8F1E9&dates=9F8F85" />
 
@@ -167,7 +167,7 @@ continuous learning   > because every project teaches something new
 
 ---
 
-## connect with me
+## Connect with me!
 
 <div align="center">
 
